@@ -1,4 +1,4 @@
-#Name:      Collatz-conjecture-python
+#Name:      Tea-Maker-Python
 #Author:    Ethan Dunford
 #Email:     ethan@ethandunford.com
 #Version:   1.0
